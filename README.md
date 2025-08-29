@@ -1,4 +1,5 @@
-<img width="1016" height="595" alt="image" src="https://github.com/user-attachments/assets/ce71d903-2e97-4c97-8d50-d2cf27aea5cf" />
+<img width="424" height="536" alt="screen shot arranger" src="https://github.com/user-attachments/assets/f5af812b-0e17-4d28-824c-26ee021fcce9" />
+
 
 
 # 💜 File Arranger
