@@ -1,3 +1,6 @@
+<img width="1016" height="595" alt="image" src="https://github.com/user-attachments/assets/ce71d903-2e97-4c97-8d50-d2cf27aea5cf" />
+
+
 # 💜 File Arranger
 
 A Python tool that organizes files in a folder by their extensions.  
@@ -19,6 +22,6 @@ Simple GUI made with PySide6, with support for custom rules via `rules.yaml`.
    git clone https://github.com/Liauuu/file-arranger.git
    cd file-arranger
 
-   ![screen shot arranger](https://github.com/user-attachments/assets/9dc6440e-9ac8-417a...)
+   
 
 
